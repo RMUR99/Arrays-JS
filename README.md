@@ -9,7 +9,7 @@
 <h1 align="center">
   <br>
   <img src="![image](https://github.com/RMUR99/Arrays-JS/assets/85951306/849bc28e-79b3-45f2-ae5f-125db6c6632d)
-" alt="readme-image" width="800">
+alt="readme-image" width="800">
   <br>
 </h1>
 
